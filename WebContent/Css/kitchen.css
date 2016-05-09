@@ -1,0 +1,11 @@
+.chat{
+	font-family: 'Dosis', sans-serif;
+}
+.chathead{
+	width:329px;
+	line-height:3em;
+}
+.inputShadow{
+	box-shadow: 10px 10px 5px #888888;
+	
+}
